@@ -6,7 +6,7 @@ import VinList from '../components/vinlist'
 export default () => {
     return (
         <Box component='span' m={1}>
-            
+            <h1>RTM Service</h1>
             <Button color='primary'>Hello NEXT</Button>
             <DatePicker />
             <VinList />
