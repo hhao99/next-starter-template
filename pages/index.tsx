@@ -1,5 +1,4 @@
 import React from 'react';
-import {Head, Link} from 'next'
 import { AppBar, Box, Container }  from '@material-ui/core';
 
 export default function() {
